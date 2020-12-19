@@ -1,4 +1,4 @@
 {
-    "master": "demo",
-    "staging": "demo"
+    "master": "production",
+    "staging": "staging"
 }
